@@ -1,4 +1,6 @@
 # JSE Captcha
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fcaptcha.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fcaptcha?ref=badge_shield)
+
 
 **[JSECOIN](https://jsecoin.com/)** [THE FUTURE BLOCKCHAIN & ECOSYSTEM FOR ECOMMERCE AND DIGITAL ADVERTISING]
 
@@ -141,3 +143,6 @@ And extended to support ie11 with this approach https://github.com/angelozehr/sv
 
 ## License
 This project is under the [GNU General Public License v3.0](./LICENSE.md).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAremixdj%2Fcaptcha.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAremixdj%2Fcaptcha?ref=badge_large)
